@@ -1,6 +1,6 @@
 # PoC Ecs Fargate + Service Connect 
 
-Este repositorio contiene el código fuente de Terraform para la creación y configuración de la aplicación en ECS Fargate, así como la pipeline de GitHub Actions para automatizar el proceso de despliegue.
+Este repositorio contiene el código fuente de la app para la creación y configuración de la aplicación en ECS Fargate, así como la pipeline de GitHub Actions para automatizar el proceso de despliegue.
 
 ## Estructura del Repositorio
 
